@@ -1,0 +1,11 @@
+[ {
+  "id" : "1",
+  "title" : "Clean Code",
+  "authorId" : "a1",
+  "yearPublished" : 2008
+}, {
+  "id" : "2",
+  "title" : "Effective Java",
+  "authorId" : "a2",
+  "yearPublished" : 2018
+} ]

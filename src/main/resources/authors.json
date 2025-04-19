@@ -1,0 +1,13 @@
+[ {
+  "id" : "a1",
+  "name" : "Robert C. Martin",
+  "country" : "USA"
+}, {
+  "id" : "a2",
+  "name" : "Joshua Bloch",
+  "country" : "USA"
+}, {
+  "id" : "4",
+  "name" : "madina",
+  "country" : "poland"
+} ]
